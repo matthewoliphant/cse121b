@@ -47,3 +47,6 @@ foodElement.innerHTML += `<br>${favoriteFoods}`;
 
 
 
+
+
+
